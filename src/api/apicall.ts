@@ -1,5 +1,5 @@
 import Axios, {AxiosError, AxiosResponse} from 'axios';
-import UserInformation from './UserInformation';
+import UserInformation from '../models/UserInformation';
 
 
 // 1st representation using class
